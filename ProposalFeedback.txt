@@ -1,0 +1,27 @@
+CMSI 4072 Spring 2025
+Project Proposal Feedback
+Project: Connekt
+=========================
+Proposal Document [2 points]:
+   Gaurav, this is a very good idea!  I really like that you are doing a
+   project that will help people, especially students.  I think the idea of
+   this application is really good, but I do think there is a LOT of work to
+   do with this product with only one person to do the work.  It would be a
+   good idea to think about all the parts you are planning, write them down,
+   then prioritize them so that you can have an idea of what a "successful"
+   project will be for the semester.  Then plan those parts out so that they
+   are in some sort of sequence, whether a linear 'waterfall' order or in an
+   'iterative' agile order.  If you get to the end and have some time left,
+   you can always add another piece.
+
+Proposal Presentation [3 points]:
+   Your presentation is very nice, quite professional-looking.  I like your
+   use of graphics to tell the story!  One area for possible improvement is
+   your grammar ~ there are a couple of awkward phrasings on slide two, even
+   for bullet format.  Be sure to double-check before you present next time!
+
+Summary:
+--------
+Total:  5% out of 5% for this deliverable.
+
+Nice job overall!  Great start to the semester, and keep it up, Gaurav!
