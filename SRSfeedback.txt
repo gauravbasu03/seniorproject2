@@ -1,0 +1,42 @@
+
+New Individual Project
+Documentation Feedback ~ Deliverable #2
+Software Requirements Specification &
+Initial Development Schedule
+CMSI 4072 Spring 2025
+=======================================
+
+COMPONENT BREAKDOWN:
+   Not required for this semester's exercise
+
+FUNCTIONAL REQUIREMENTS:
+   These are excellent!  Good job on this section, with just a couple of
+   comments.  First, none of these requirements has any acceptance
+   criteria ~ you need at least one for each child story.  Second with any
+   epic, there will be MULTIPLE child stories.  Having one child story each
+   for your epics doesn't break the epics down far enough to be able to be
+   done in a single sprint.  That should be corrected.
+
+PERFORMANCE REQUIREMENTS:
+   Covered in the Functional Requirements, from what I read.  Nothing else
+   needed for this section [which isn't a section anyhow...]
+
+ENVIRONMENT REQUIREMENTS:
+   Missing section.  You need to include this so that the development and
+   the deployment environments are specified.
+
+OVERALL ASSESSMENT:
+   Category                          Points
+   Component Breakdown                 2/2
+   Functional Requirements             5/5
+   Performance Requirements            2/2
+   Environment Requirements            0/1
+                                     =====
+   Subtotal                           9/10
+   ------------------------------------------------------
+   Total Percentage:  9/10 = 90% which is an A
+
+Update the requirements to include the things outlined above.  Get that in
+by the end of the semester for full credit on the assignment.
+
+Great job!
