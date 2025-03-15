@@ -1,0 +1,40 @@
+
+Evaluation and Feedback
+CMSI 4072 project ~ Spring 2025
+Evaluation for homework02
+===============================
+
+5-1 component-based vs service-oriented             5 of  5 points
+5-2 most appropriate architecture for tictactoe     5 of  5 points
+5-4 internet chess appropriate architecture         5 of  5 points
+5-6 database for ClassyDraw                         5 of  5 points
+5-8 state machine diagram for floats               10 of 10 points
+6-1 compare/contrast ClassyDraw subclasses         10 of 10 points
+6-2 inheritance diagram from 6-1                    8 of 10 points
+
+
+Total possible score: 50 points
+
+EVALUATION
+============================================================================
+Your score: 48 out of 50 = 96.0% which is an A on this assignment
+
+Comments:
+---------
+
+You generally have well-thought-out answers to these questions, Guarav.  The
+   architecture questions you really did well with.
+
+problem 5-8 I notice you don't have an "accept" state to stop the processing,
+   but I get the idea.  The rest of the diagram looks good.
+
+problem 6-2 remember that in UML the inheritance arrow points to the super
+   class, not to the subclasses.  Also, I think the 'Text' class is not a
+   shape but it IS a 'Drawable' so it should be associated with that class
+   instead.  I don't think you want 'Linelength' as a class, since that is
+   a property of a line.  Lastly, the attributes you have places in the
+   'Shape' class should be pushed up to the 'Drawable' class.  Still, good
+   effort!
+
+Excellent work ~ keep it up!
+
