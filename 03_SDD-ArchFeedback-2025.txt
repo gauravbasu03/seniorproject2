@@ -11,20 +11,20 @@ SDD: ARCHITECTURAL DESIGN SECTION:
    Architectural design diagrams section
 
 OVERALL ASSESSMENT:
-   Category                          Points
-   --------------------------------  ---------
+   Category                           Points
+   --------------------------------   -------
    ARCHITECTURAL DESIGN SECTION:
-   Major software components            5 of  5
-   Major software interactions          5 of  5
-   Architectural design diagrams       10 of 10
-                                     ==========
-   Subtotal                            20 of 20
+   Major software components            2 / 2
+   Major software interactions          2 / 2
+   Architectural design diagrams        6 / 6
+                                      =======
+   Subtotal                            10 /10
    ------------------------------------------------------
-   Total Percentage:  20/20 = 100% which is an A-plus
+   Total Percentage:  10/10 = 100% which is an A-plus
 
 ============================================================================
-COMMENTS
-
+COMMENTS:
+---------
 Nice job on this preliminary document!  I like the way you have organized
 the sections and the way you describe each of the parts.  You went above
 and beyond by describing some of the attributes in the classes, which wasn't
