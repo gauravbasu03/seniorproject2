@@ -1,0 +1,58 @@
+
+New Individual Project
+Documentation Feedback ~ Deliverable #4
+Software Design Document ~ Detailed Design
+CMSI 4072 Spring 2025
+==========================================
+
+DETAILED CSC AND CSU DESCRIPTIONS:
+   Excellent job on this section ~ nothing to add here.
+
+DETAILED CLASS DESCRIPTIONS:
+   Excellent job on this section ~ nothing to add here.
+
+DETAILED INTERFACE DESCRIPTIONS:
+   Excellent job on this section ~ nothing to add here.
+
+DETAILED DATA STRUCTURE DESCRIPTIONS:
+   Excellent job on this section ~ nothing to add here.
+
+DETAILED DESIGN DIAGRAMS:
+   A few comments here ~ see below.
+
+DATABASE DESIGN AND DESCRIPTION:
+   A few comments here ~ see below.
+
+----------------------------------------------
+OVERALL ASSESSMENT:
+   Category                          Points
+   CSC/CSU Descriptions:                2 of  2
+   Class Descriptions:                  3 of  3
+   Interface Descriptions:              3 of  3
+   Data structure Descriptions:         1 of  1
+   Design diagrams:                     4 of  4
+   Database design/descriptions:        2 of  2
+                                     ===========
+   Subtotal                            15 of 15
+   ------------------------------------------------------
+   Total Percentage:  15/15 = 100% which is an A-plus
+
+Very fine work on this document with just a couple of comments on diagrams.
+
+A "use case" diagram shows the system in a box and the operations that the
+system performs as ovals inside the box.  Anything that interacts with the
+system is OUTSIDE the box and is labeled as an "actor" which is a stick
+figure.  Your diagram shows the data flow through the system, but without
+any detail.
+
+When putting text into boxes, you should center only the name of the box at
+the top, then everything else should be left-justified.  Having everything
+centered looks a little off.  What exactly ARE the relationships between
+the classes?  It's a bit hard to tell.  You could add notations to the
+association lines which would help the reader understand.
+
+For an Entity-Relationship Diagram, you need to show not only what the
+table name and fields are, but you should also show what the primary key and
+any other keys are [foreign keys, etc] in the tables.
+
+Good work, though ~ keep it up!
