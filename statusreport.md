@@ -32,3 +32,16 @@ Week 9 - week after spring break (sleepy)
 - Continued issue -  OpenAI's api to suggest cities to work in. I'm a bit lost in terms of the flow of the app from start to finish. But I do know how to make it functional.
 
 
+Week 11 - 
+1. Completed Tasks
+- ChatGPT suggestion for cities
+- Including an expand/collapse button for the suggestion box
+- Fixed issue of geography being small by defaulting to the zip code of city 
+
+2. Ongoing Tasks
+- Making the UI more pleasant
+- Actually talking to the chatgpt back and forth
+
+3. Issues/Challenges
+- Esri Business Analyst Infrographic needs a different token from the api token I use for the other aspects of the application. 
+- Ideas on how to imrpove the flow of the app
