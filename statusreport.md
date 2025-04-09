@@ -44,4 +44,11 @@ Week 11 -
 
 3. Issues/Challenges
 - Esri Business Analyst Infrographic needs a different token from the api token I use for the other aspects of the application. 
-- Ideas on how to imrpove the flow of the app
+- Ideas on how to improve the flow of the app
+
+Week 13 - 
+
+ABCDR Presentation
+Issues/Challenges
+- Deciding which toggles to include on the sidebar
+- The infographic is not looking like it will be finished, might have to seek an alternative.
