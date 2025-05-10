@@ -52,3 +52,13 @@ ABCDR Presentation
 Issues/Challenges
 - Deciding which toggles to include on the sidebar
 - The infographic is not looking like it will be finished, might have to seek an alternative.
+
+
+Week 15 - 
+Preparing the poster, adding finishing touches, adding night mode
+Not gonna be able to add infographic
+
+Week 17 - 
+Submitting documentation and status reports for the previous weeks
+Ensuring app works 
+Creating app launch guide
