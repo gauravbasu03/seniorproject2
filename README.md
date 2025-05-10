@@ -4,6 +4,11 @@ Welcome to **Connekt**, a modern, responsive React application designed to strea
 
 ---
 
+## Running the app
+
+npm run dev
+# or
+npm run build
 
 
 ---
@@ -30,11 +35,6 @@ npm install
 # or
 yarn install
 
----
 
-## Running the app
 
-npm run dev
-# or
-npm run build
 
